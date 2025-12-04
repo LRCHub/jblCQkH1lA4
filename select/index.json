@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ライアーダンサー",
+  "base_artist": "マサラダ",
+  "createdAt": "2025-12-04T15:57:06.417733Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライアーダンサー",
+      "artist": "マサラダ",
+      "has_synced": false,
+      "path": "select/pl_01_ライアーダンサー_マサラダ.txt"
+    }
+  ]
+}
